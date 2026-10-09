@@ -1,8 +1,2 @@
-dist/
-integration/
-Kindle遥控KindleRemote.md
 *.log
-*.keystore
-*.jks
-*.idsig
 .DS_Store
